@@ -36,7 +36,7 @@ export default {
     width: .9rem;
     height: .9rem;
     background-color: pink;
-    font-size: .16rem;
+    font-size: .12rem;
   }
 }
 </style>
